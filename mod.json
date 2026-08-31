@@ -1,0 +1,12 @@
+{
+  "geode": "5.10.1",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "efe.freddyboop",
+  "name": "Freddy Boop",
+  "version": "v1.0.0",
+  "developer": "Efe",
+  "description": "Freddy nose boop easter egg.",
+  "repository": "https://github.com/efecanonart1-source/freddyboop"
+}
