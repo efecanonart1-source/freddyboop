@@ -1,0 +1,15 @@
+{
+  "geode": "v5.10.1",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "volexirone.freddyboop",
+  "name": "Freddy Boop",
+  "version": "v1.0.0",
+  "developer": "volexirone",
+  "description": "A Freddy nose boop easter egg for Geometry Dash.",
+  "tags": [
+    "interface",
+    "joke"
+  ]
+}
